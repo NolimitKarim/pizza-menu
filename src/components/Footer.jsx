@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <footer>
-            <p>Estamos abiertos</p>
+            <p>Siempre atentos.</p>
         </footer>
     )
 }

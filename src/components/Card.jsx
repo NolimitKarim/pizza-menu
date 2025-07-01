@@ -10,7 +10,7 @@
 
 export default function Card() {
     const cardStyle = {
-        border: '3px solid #ccc',
+        border: '3px solid #edc84b',
         borderRadius: '10px',
         padding: '16px',
         margin: '16px',
@@ -30,7 +30,7 @@ export default function Card() {
         fontSize: '1.5em',
         margin: '8px 0',
         color: '#333',
-        backgroundColor: '#ccc',
+        backgroundColor: '#edc84b',
         padding: '8px',
         borderRadius: '25px',
         boxShadow: '0 1px 3px rgba(0, 0, 0, 0.1)',
